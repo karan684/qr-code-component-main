@@ -1,0 +1,35 @@
+body{
+  background-color: hsl(220, 15%, 55%);
+}
+
+p{
+  font-size: 15px;
+  font-family: cursive;
+  font-weight: 400;
+  color: gray;
+}
+
+h5{
+  font-family: fantasy;
+  font-size: 15px;
+}
+
+.card {
+  width: 18rem;
+  border-radius: 1rem;
+  box-shadow: 0 5px 10px rgba(0,0,0,.2);
+  margin: auto;
+  padding: 10px 5px;
+  margin-top: 6rem;
+}
+
+/* Add rounded corners to the top left and the top right corner of the image */
+img {
+  padding: 2px 16px;
+  border-radius: 8%;
+}
+
+.container{
+  padding: 12px 16px;
+  text-align: center;
+}
